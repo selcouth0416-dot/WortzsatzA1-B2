@@ -13,22 +13,7 @@ Selamat datang di repositori dataset lengkap 5000 Wortschatz Bahasa Jerman dan t
 | **A2** | Perjalanan, Pekerjaan, Janji Temu, Budaya, Routine | Netzwerk Neu A2 / Goethe A2 | 1.200+ Kata |
 | **B1** | Diskusi Opini, Umweltschutz, Pendidikan, Pelatihan Vokasi | Netzwerk Neu B1 / Goethe B1 | 1.500+ Kata |
 | **B2** | Bahasa Akademis, Diskursus Publik, Berufsdeutsch, Sains | Netzwerk Neu B2 / Goethe B2 | 1.300+ Kata |
-
 ---
-
-## 🗂️ Berkas dalam Repositori ini:
-
-1. **`wortschatz_5000_deutsch_indonesisch.json`**: Format JSON lengkap dengan artikel (`der`, `die`, `das`), bentuk jamak (`Plural`), part of speech (`Nomen`, `Verb`, dll.), contoh kalimat Jerman, dan terjemahan Indonesia.
-2. **`wortschatz_5000_deutsch_indonesisch.csv`**: Format CSV siap impor ke **Microsoft Excel**, **Google Sheets**, atau **Anki Flashcards**.
-3. **`wortschatz_A1_netzwerk_neu.json`**: Khusus tingkatan pemula A1.
-4. **`wortschatz_A2_netzwerk_neu.json`**: Khusus tingkatan dasar A2.
-5. **`wortschatz_B1_netzwerk_neu.json`**: Khusus tingkatan mandiri B1.
-6. **`wortschatz_B2_netzwerk_neu.json`**: Khusus tingkatan mahir B2.
-7. **`README.md`**: Dokumentasi dan panduan belajar.
-8. **`LICENSE`**: Lisensi Open Source (MIT).
-
----
-
 ## 🎧 Hören & Contoh Pengucapan (Pronunciation)
 Setiap kosakata dilengkapi kalimat percakapan alami yang dapat diputar dengan suara penutur asli (natural storyteller) tanpa suara robot monoton.
 
